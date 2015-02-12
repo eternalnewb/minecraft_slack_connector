@@ -1,0 +1,7 @@
+WEBHOOK_URL="";
+SLACK_CHANNEL="";
+BOT_NAME="";
+ICON_EMOJI="";
+# Safest to make MSLF a an absolute filepath
+MINECRAFT_SERVER_LOG_FILE="";
+
